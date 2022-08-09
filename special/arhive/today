@@ -234,7 +234,6 @@ https://trueconf.centrdor.ru
 https://93.174.229.214
 https://novorossonline.ru
 https://novorossonline.ru/oauth2/
-https://vcs.tzsgs.ru
 https://meet.angstrem.ru
 https://vks.dzo44.ru
 https://tc.gounn.ru
@@ -288,9 +287,8 @@ https://xn--80aafc4bdoy.xn--p1ai/
 https://dnr-market.ru/
 http://avanpress.ru/sbor-gumanitarnoj-pomoshhi-dlya-soldat-dnr-i-lnr/
 https://my.crb-dnr.ru/rich/auth
-tcp://5.188.197.94:22
 tcp://5.188.197.94:443
-tcp://5.188.197.94:80
+tcp://5.188.197.94:53
 http://blog.trueconf.ru
 https://sdk.trueconf.ru
 https://developers.trueconf.ru/
@@ -300,3 +298,4 @@ tcp://5.188.197.93:443
 tcp://5.188.197.93:80
 tcp://46.29.118.140:22
 tcp://85.202.226.194:1720
+https://glava.rk.gov.ru/
