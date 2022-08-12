@@ -300,6 +300,7 @@ tcp://92.255.106.176:21
 tcp://92.255.106.176:22
 tcp://92.255.106.176:80
 https://webinar.ru/
+https://webinar.ru/blog/
 https://bridge-am-1.webinar.ru/
 https://bridge-fr-1.webinar.ru/
 https://build-01.webinar.ru/
@@ -356,3 +357,9 @@ tcp://212.24.35.119:5060
 tcp://212.24.35.119:5222
 tcp://212.24.35.119:5269
 tcp://212.24.35.119:8080
+https://videomost.ttk.ru/service/welcome
+https://my.webinar.ru/signin
+tcp://37.130.193.7:443
+https://events.webinar.ru/api/login
+tcp://37.130.193.5:80
+tcp://37.130.193.3:80
