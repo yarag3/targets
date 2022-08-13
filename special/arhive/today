@@ -358,3 +358,11 @@ tcp://37.130.193.7:443
 https://events.webinar.ru/api/login
 tcp://37.130.193.5:80
 tcp://37.130.193.3:80
+https://vcs.minenergo.gov.ru:4439/
+https://vcs.minenergo.gov.ru:4439/oauth2/
+http://trueconf.rosenergo.gov.ru
+http://trueconf.rosenergo.gov.ru/oauth2/
+tcp://212.192.206.91:5060
+https://trueconf.fsrar.gov.ru/
+https://trueconf.fsrar.gov.ru/oauth2/
+tcp://185.183.174.45:5060
