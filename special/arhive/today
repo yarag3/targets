@@ -22,3 +22,5 @@ https://unistream.ru/api/coin-request
 https://unistream.ru/api/geocoder
 https://unistream.ru/search/
 https://api6.unistream.com/api/v1/transfer/calculate
+tcp://94.127.152.16:443
+tcp://94.127.155.69:443
